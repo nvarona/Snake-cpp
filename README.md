@@ -38,6 +38,6 @@ Disfruta como yo he echo, jugando a este juego cuando era joven.
 <br>
 <br>
 <p align="center">
-| 📺 <a href="https://nvaron.biz.x10">My Web Personal Channel</a>
-| 🌍 <a href="http://nvarona.biz.x10/blog">My Blog Website</a> | 2024<br>
+| 📺 <a href="https://nvarona.x10.bz/">My Web Personal Channel</a>
+| 🌍 <a href="https://nvarona.x10.bz/blog">My Blog Website</a> | 2024<br>
 </p>
