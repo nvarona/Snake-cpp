@@ -8,16 +8,16 @@ Entonces, ¡toma una taza de café y prepárate para sumergirte en el mundo del 
 
 El temario que he ido haciendo paso a paos es el siguiente:
 
- 1.- Creacion de un canvas en blanco y un GameLoop (bucle de juego)
- 2.- Creando alimentos aleatorios
- 3.- Creando Snake (Serpiente)
- 4.- Moviendo a Snake
- 5.- Hacer que Snake coma la comida
- 6.- Hacer que Snake crezca mas y mas
- 7.- Chequeo de colisiones con los bordes y su cola
- 8.- Añadiendo titulos y marcos
- 9.- Keeping Score & Marcadores
-10.- Añadir sonidos
+ 1. Creacion de un canvas en blanco y un GameLoop (bucle de juego)
+ 2. Creando alimentos aleatorios
+ 3. Creando Snake (Serpiente)
+ 4. Moviendo a Snake
+ 5. Hacer que Snake coma la comida
+ 6. Hacer que Snake crezca mas y mas
+ 7. Chequeo de colisiones con los bordes y su cola
+ 8. Añadiendo titulos y marcos
+ 9. Keeping Score & Marcadores
+10. Añadir sonidos
 
 Pongo todos las partes del codigo de como ir avanzando en funcion de los logros que vamos realizando en cada paso del indice que hemos creado.
 
